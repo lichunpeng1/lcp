@@ -7,10 +7,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="006fe046-f9ee-4864-a06a-c93ff6d84eba" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../hellossm/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../hellossm/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../hellossm/README.MD" afterPath="$PROJECT_DIR$/../hellossm/README.MD" />
-    </list>
+    <list default="true" id="006fe046-f9ee-4864-a06a-c93ff6d84eba" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -700,7 +697,7 @@
       <updated>1533620531347</updated>
       <workItem from="1533620534468" duration="3874000" />
       <workItem from="1533624666156" duration="2455000" />
-      <workItem from="1533627151698" duration="8619000" />
+      <workItem from="1533627151698" duration="8628000" />
     </task>
     <task id="LOCAL-00001" summary="李春鹏李春鹏李春鹏">
       <created>1533696596133</created>
@@ -723,7 +720,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533705270332</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1111">
+      <created>1533705289457</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1533705289457</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -759,7 +763,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14948000" />
+    <option name="totallyTimeSpent" value="14957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
