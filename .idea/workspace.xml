@@ -8,7 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="006fe046-f9ee-4864-a06a-c93ff6d84eba" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../hellossm/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../hellossm/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../hellossm/src/main/java/com.lcp/controller/UserController.java" afterPath="$PROJECT_DIR$/../hellossm/src/main/java/com.lcp/controller/UserController.java" />
+      <change beforePath="$PROJECT_DIR$/../hellossm/README.MD" afterPath="$PROJECT_DIR$/../hellossm/README.MD" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,12 +33,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../hellossm/src/main/java/com.lcp/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+              <caret line="23" column="50" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="50" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.MD" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../hellossm/README.MD">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -117,6 +130,7 @@
         <option value="$PROJECT_DIR$/README.fxml" />
         <option value="$PROJECT_DIR$/README.MD" />
         <option value="$PROJECT_DIR$/../hellossm/src/main/java/com.lcp/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/../hellossm/README.MD" />
       </list>
     </option>
   </component>
@@ -702,7 +716,7 @@
       <workItem from="1533624666156" duration="2455000" />
       <workItem from="1533627151698" duration="10544000" />
       <workItem from="1533707396533" duration="2270000" />
-      <workItem from="1534136805045" duration="1683000" />
+      <workItem from="1534136805045" duration="4153000" />
     </task>
     <task id="LOCAL-00001" summary="李春鹏李春鹏李春鹏">
       <created>1533696596133</created>
@@ -760,7 +774,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534138434601</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="yeah1">
+      <created>1534138543589</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1534138543589</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -796,13 +817,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20826000" />
+    <option name="totallyTimeSpent" value="23296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3898305" sideWeight="0.5083333" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3898305" sideWeight="0.5083333" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -859,7 +880,8 @@
     <MESSAGE value="1111" />
     <MESSAGE value="增加一个输出值" />
     <MESSAGE value="yeah" />
-    <option name="LAST_COMMIT_MESSAGE" value="yeah" />
+    <MESSAGE value="yeah1" />
+    <option name="LAST_COMMIT_MESSAGE" value="yeah1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1065,26 +1087,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../hellossm/README.MD">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../hellossm/target/classes/com/lcp/service/impl/UserServiceImpl.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1095,9 +1097,29 @@
     <entry file="file://$PROJECT_DIR$/../hellossm/src/main/java/com.lcp/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+          <caret line="23" column="50" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="50" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hellossm/README.MD">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
       </provider>
     </entry>
   </component>
