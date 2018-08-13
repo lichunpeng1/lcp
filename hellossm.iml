@@ -24,8 +24,9 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
-    <exclude-output />
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../hellossm/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../hellossm/target/test-classes" />
     <content url="file://$MODULE_DIR$/../hellossm">
       <sourceFolder url="file://$MODULE_DIR$/../hellossm/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hellossm/src/main/resources" type="java-resource" />

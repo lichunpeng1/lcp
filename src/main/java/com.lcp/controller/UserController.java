@@ -22,6 +22,8 @@ public void selectUser(HttpServletRequest request, HttpServletResponse response)
     response.setCharacterEncoding("UTF-8");
     long userId = Long.parseLong(request.getParameter("id"));
     User user = this.userService.selectUser(userId);
+    String a="aaaaaaaa";
+    System.out.println(a);
     ObjectMapper mapper = new ObjectMapper();
     response.getWriter().write(mapper.writeValueAsString(user));
     response.getWriter().close();
