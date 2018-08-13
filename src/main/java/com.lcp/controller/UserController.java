@@ -24,6 +24,7 @@ public void selectUser(HttpServletRequest request, HttpServletResponse response)
     User user = this.userService.selectUser(userId);
     String a="aaaaaaaa";
     System.out.println(a);
+    System.out.println("我终于成功了！！");
     ObjectMapper mapper = new ObjectMapper();
     response.getWriter().write(mapper.writeValueAsString(user));
     response.getWriter().close();
